@@ -28,7 +28,7 @@ May 2018 - Alpha version of the trading platform ready. Market data analysis and
 
 August 2018 - Beta version of the platform: UI ready, market data analysis and execution on 10 major exchanges, sentiment analysis and blockchain data analysis modules ready. First third-party users onboarded
 
-October 2018 - A (atto) level of the platform public launch. Signals, strategies and execution for 20+ major exchanges (over 50% of total trading volume).
+October 2018 - A (atto) level of the platform public launch. Signals, strategies and execution for 20+ major exchanges (over 50% of total trading volume)
 
 December 2018 - P (pico) and F (femto) levels of the platform launched
 
@@ -42,6 +42,7 @@ We have proven profitable track record across many traditional asset classes (eq
 We have successfully navigated the profound market and technological changes that took place in the last decades: from «excel» to Big Data, from seconds to nanoseconds, from «manual» news trading to natural-language processing, machine learning, and live social media sentiment analysis. Out track record in traditional markets testifies to our ability of keeping our products competitive and future-proofed, regardless of market and technological advancements.
 
 OUR FOUNDERS
+
 Denis Popov - Founder and CEO. World-class expert in quantitative trading (19 years of experience). Founder and CEO of ATTO Trading Technologies.
 
 Gene Zeltsman - Co-founder and CTO. Over 20 years of software engineering experience. Last 12 years specializes in low-latency trading platforms development.
