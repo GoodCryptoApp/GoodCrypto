@@ -14,25 +14,25 @@ sentiment analysis
 
 ## WHEN?
 
-*October 2017* Data analysis and research on crypto markets started
+*October 2017* - Data analysis and research on crypto markets started
 
-*January 2018* Test trading in crypto markets utilizing our Atto Trading Technologies platform started
+*January 2018* - Test trading in crypto markets utilizing our Atto Trading Technologies platform started
 
-*February 2018* Based on successful test trading results, CRYPTTO strategy and value proposition defined, platform development started
+*February 2018* - Based on successful test trading results, CRYPTTO strategy and value proposition defined, platform development started
 
-*March 2018* CRYPTTO.IO launched, strategic partners negotiations started
+*March 2018* - CRYPTTO.IO launched, strategic partners negotiations started
 
-*May 2018* **Alpha** version of the trading platform ready. 2 strategies profitably trading on 3 major exchanges
+*May 2018* - **Alpha** version of the trading platform ready. 2 strategies profitably trading on 3 major exchanges
 
-*August 2018* **Beta** version of the platform. 3 fully-automated strategies developed. First third-party users (pre-sale participants) onboarded 
+*August 2018* - **Beta** version of the platform. 3 fully-automated strategies developed. First third-party users (pre-sale participants) onboarded 
 
-*October 2018* Platform public launch. Fully automated strategies and intelligent execution algorithms on exchanges with at least 50% of the total trading volume
+*October 2018* - Platform public launch. Fully automated strategies and intelligent execution algorithms on exchanges with at least 50% of the total trading volume
 
-*Q1 2019* vMarket data analysis-based trading signals for semi-automated and manual trading added
+*Q1 2019* - Market data analysis-based trading signals for semi-automated and manual trading added
 
-*Q2 2019* News and social media sentiment analysis-based signals added
+*Q2 2019* - News and social media sentiment analysis-based signals added
 
-*H1 2019* On-chain activity analysis-based signals added
+*H1 2019* - On-chain activity analysis-based signals added
 
 
 ## WHO?
